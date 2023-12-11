@@ -4,6 +4,7 @@ hacky and quick Java solutions to Advent Of Code.
 
 This isn't maintainable, tested, or sometimes even readable or performant code, but nobody reads this anyway :-)
 
+You won't find puzzle inputs here.
 
 ## Progress
 
